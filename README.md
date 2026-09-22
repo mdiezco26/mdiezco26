@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/mdiezco26.png" width="150">
+<img align="left" src="https://github.com/mdiezco26.png" width="600">
 
 # Aupa 👋
 Soy Markel y este es mi primer repositorio de GitHub.
