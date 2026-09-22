@@ -1,5 +1,6 @@
-<img align="left" src="https://github.com/mdiezco26.png" width="150">
-
+<p align="left">
+  <img src="https://github.com/mdiezco26.png" width="150" alt="Foto de perfil">
+</p>
 # Aupa 👋
 Soy Markel y este es mi primer repositorio de GitHub.
 
