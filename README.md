@@ -1,5 +1,12 @@
-## Hi there 👋
+# Aupa 👋
+Este es mi primer repositorio de GitHub.
 
+## 🚀 Características
+
+- ✨ Interfaz sencilla y fácil de usar
+- ⚡ Rápido y eficiente
+- 🛠️ Código organizado y mantenible
+- 🔧 En constante desarrollo y mejora
 <!--
 **mdiezco26/mdiezco26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
