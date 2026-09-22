@@ -1,4 +1,3 @@
-![Foto de perfil](https://github.com/mdiezco26.png)
 # Aupa 👋
 Soy Markel y este es mi primer repositorio de GitHub.
 
