@@ -1,5 +1,7 @@
+![Foto de perfil](https://github.com/mdiezco26.png)
+
 # Aupa 👋
-Este es mi primer repositorio de GitHub.
+Soy Markel y este es mi primer repositorio de GitHub.
 
 ## 🚀 Características
 
