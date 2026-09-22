@@ -1,4 +1,4 @@
-![Foto de perfil](https://github.com/mdiezco26.png)
+<img align="left" src="https://github.com/mdiezco26.png" width="150">
 
 # Aupa 👋
 Soy Markel y este es mi primer repositorio de GitHub.
